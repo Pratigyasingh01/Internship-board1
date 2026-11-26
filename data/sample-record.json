@@ -1,0 +1,8 @@
+Sample searches
+Use these examples to test the board:
+Search `frontend` → Frontend Developer Intern and UI Engineer Intern.
+Search `remote` → all remote opportunities.
+Choose domain `Design` → Product Design Intern and Visual Design Intern.
+Search `Delhi` → Social Media Intern.
+Search a term like `astronaut` → empty state with reset button.
+Press `/` while not inside a form field → search input receives focus.
